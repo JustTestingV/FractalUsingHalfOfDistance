@@ -7,7 +7,7 @@ It's programm realization of math "trick" - you can make fractals, by placing do
 You guessed a triangle. 
 First, placing top-dots of this tringle.
 
-file.![2021-08-12 (3)](https://user-images.githubusercontent.com/64104994/129270745-d63f70ea-195e-46da-af75-e585357e1b69.png)
+![2021-08-12 (3)](https://user-images.githubusercontent.com/64104994/129270745-d63f70ea-195e-46da-af75-e585357e1b69.png)
 
 Then, choosing random top, for example up-top.
 
