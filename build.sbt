@@ -1,4 +1,4 @@
-name := "FractalsByHalfOfDistance"
+name := "FractalsUsingHalfOfDistance"
 
 version := "0.1"
 
