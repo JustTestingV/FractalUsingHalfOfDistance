@@ -19,7 +19,7 @@ Choosing next random top (here it's left).
 
 Then placing dot in the middle of space between this 2 tops.
 
-![2021-08-13](https://user-images.githubusercontent.com/64104994/129271238-274fe14a-43ee-4f80-94ca-646e52ec57a4.png)
+![2021-08-13 (4)](https://user-images.githubusercontent.com/64104994/129271631-1a7f67d9-32d1-4a59-9632-73fa75abe7ee.png)
 
 Then choosing another top, and placing dot between last dot and new top.
 
